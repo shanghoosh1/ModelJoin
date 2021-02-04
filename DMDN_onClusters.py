@@ -1,5 +1,3 @@
-# Ali Mohammadi Shanghooshabad (Shanghoosh)
-# University of Warwick
 import math
 import random
 import time

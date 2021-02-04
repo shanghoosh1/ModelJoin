@@ -6,14 +6,14 @@ Model_Join generates a uniform sample of the join result as a universal solution
 
 # Setup
 
-Download the project
+Download the project   
 CD to the Model_Join folder  
 
-Install Pyhton 3.6
-sudo apt install -y libpq-dev gcc python3-dev
-python3 -m venv venv
-source venv/bin/activate
-pip3 install -r requirements.txt
+Install Pyhton 3.6  
+sudo apt install -y libpq-dev gcc python3-dev  
+python3 -m venv venv  
+source venv/bin/activate  
+pip3 install -r requirements.txt  
 
 # Code
 

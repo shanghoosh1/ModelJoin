@@ -1,6 +1,6 @@
 # Model_Join  
 
-Model_Join is a framework to join models which provides us the densities of single attributes and conditional probabilities of join attributes.
+Model_Join is a framework to join the models which provide us the densities of single attributes and conditional probabilities of join attributes.
 The framework is used when we have the models, but the data has been removed or we do not have access to the data.
 Model_Join generates a uniform sample of the join result as a universal solution to do all the learning, knowledge discovery, data visualization or AQP over join results of deleted datasets.
 

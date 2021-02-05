@@ -39,6 +39,19 @@ The file SkipGram_NegativeSampling.py is used to learn embeddings. Note, you nee
 
 Main.py is an example of using all the mentioned files for query Q3. 
 
+DataBaseGenerator.py is the file you can generate the synthetic data.
+
+Join_6way_tpc.py is the code for Q4 on TPC-DS data.
+
+JoinTable_MP_3wayDB2.py is the framework code for Q1 on the synthetic data.
+
+JoinTable_MP_DB2_t0t1t2t3t4.py is the framework code for Q2 on the synthetic data.
+
+
+
+
+
+
  
 
 
